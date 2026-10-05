@@ -3,7 +3,7 @@
 ## Overview
 
 This project analyses data from the **European Social Survey (ESS)** to investigate factors associated with **trust in government**.
-
+ 
 The analysis focuses on whether individual characteristics and socioeconomic factors — particularly **happiness, unemployment, age, gender, and occupation** — are associated with levels of trust in government.
 
 The project uses **R** for data cleaning, descriptive statistics, visualisation, correlation analysis, and multiple linear regression.
