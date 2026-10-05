@@ -101,21 +101,18 @@ Frequency and percentage tables are also produced for categorical variables such
 
 Two main visualisations are produced.
 
-### Figure 1 — Happiness vs Trust in Government
+### Figure 1: Happiness vs Trust in Government
 
-A scatterplot with a LOESS trend line is used to examine the relationship between happiness and trust in government.
+The scatterplot examines the relationship between happiness and trust in government. A LOESS trend line is included to show the overall pattern.
 
-The resulting figure is saved as:
+![Figure 1: Happiness vs Trust in Government](Figure1_Happiness_Trust.png)
 
-`Figure1_Happiness_Trust.png`
 
-### Figure 2 — Unemployment vs Trust in Government
+### Figure 2: Unemployment vs Trust in Government
 
-A boxplot compares levels of trust in government between respondents who were and were not unemployed during the previous three months.
+The boxplot compares trust in government between respondents who were and were not unemployed during the previous three months.
 
-The resulting figure is saved as:
-
-`Figure2_Unemployment_Trust.png`
+![Figure 2: Trust in Government vs Unemployment](Figure2_Unemployment_Trust.png)
 
 ## Correlation Analysis
 
